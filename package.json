@@ -2,7 +2,7 @@
   "name": "pccclarity-frontend",
   "version": "0.1.0",
   "private": true,
-  "type": "commonjs",
+  "type": "module",
   "dependencies": {
     "@stripe/stripe-js": "^4.0.0",
     "@tanstack/react-query": "^5.0.0",
